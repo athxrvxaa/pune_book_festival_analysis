@@ -1,1 +1,6 @@
 data/raw/*.csv
+data/processed/*
+models/*
+powerbi/*
+
+!.gitkeep
