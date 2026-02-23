@@ -29,7 +29,7 @@ Build predictive models to estimate purchase likelihood using demographic and be
   - Accuracy
   - Confusion Matrix
   - Precision & Recall
-- Power BI Dashboard for interactive visualization
+- Power BI Dashboard for interactive visualization (Future Scope)
 
 ## 📈 Results
 - Best Model: Random Forest (Highest Accuracy)
